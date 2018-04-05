@@ -1,0 +1,17 @@
+<!-- Head -->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <title><%= title %></title>
+
+  <link rel="stylesheet" href="css/inline.css">
+  <style type="text/css">{% include "./../../../build/css/embedded.css" %}</style>
+  <!--[if mso]>
+  <style>
+  .my-font {
+    font-family: Helvetica, Arial, sans-serif !important;
+  }
+  </style>
+  <![endif]-->
+</head>
+<!-- Head End -->

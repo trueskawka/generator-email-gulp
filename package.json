@@ -1,0 +1,29 @@
+{
+  "name": "generator-email-gulp",
+  "version": "0.1.0",
+  "description": "Yeoman generator for creating HTML emails with Gulp and Nunjucks",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "html",
+    "gulp",
+    "nunjucks",
+    "email"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trueskawka/generator-email-gulp.git"
+  },
+  "author": "trueskawka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trueskawka/generator-email-gulp/issues"
+  },
+  "homepage": "https://github.com/trueskawka/generator-email-gulp#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "yeoman-generator": "^1.1.1"
+  }
+}

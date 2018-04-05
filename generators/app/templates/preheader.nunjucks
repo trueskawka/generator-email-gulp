@@ -1,0 +1,5 @@
+<!-- Preheader -->
+<span class="my-font preheader">
+  <%= preview_text %>
+</span>
+<!-- Preheader End -->
